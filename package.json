@@ -17,6 +17,9 @@
     "mango",
     "db"
   ],
+  "engines": {
+    "node": ">=8.10.0"
+  },
   "author": "Gonzalo Valdez",
   "license": "ISC",
   "bugs": {
