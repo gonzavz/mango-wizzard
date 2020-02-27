@@ -1,0 +1,26 @@
+{
+  "name": "mango-wizzard",
+  "version": "0.1.0",
+  "description": "Migration managener for mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzavz/mango-wizzard.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongo",
+    "migrations",
+    "mango",
+    "db"
+  ],
+  "author": "Gonzalo Valdez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzavz/mango-wizzard/issues"
+  },
+  "homepage": "https://github.com/gonzavz/mango-wizzard#readme"
+}
